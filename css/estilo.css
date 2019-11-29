@@ -39,7 +39,7 @@ nav{
 	border-radius: 50px;
 	margin-top: 20px;
 	border: solid;
-	color: rgb(0, 163, 238); 
+	color: rgb(0, 163, 238);
 }
 
 nav a{
@@ -128,7 +128,7 @@ section{
 	margin: 20px 0px 20px 0px;
 	border-radius: 30px;
 	padding: 10px;
-	
+
 }
 section iframe{
 	width: 390px;
@@ -154,12 +154,12 @@ section a{
 	text-decoration: none;
 	color: #9bdb48;
 	font-weight: bold;
-	
+
 }
 
 section p img{
 	width: 300px;
-	height: 280px;
+	height: 250px;
 	float: right;
 	margin: 0px 30px 15px 20px;
 
