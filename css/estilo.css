@@ -158,10 +158,10 @@ section a{
 }
 
 section p img{
-	width: 300px;
-	height: 280px;
+	width: 280px;
+	height: 260px;
 	float: right;
-	margin: 0px 30px 20px 20px;
+	margin: 10px 0px 10px 20px;
 
 }
 
